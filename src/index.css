@@ -6,3 +6,12 @@
 body{
     background-color: #111;
 }
+
+#taskList::-webkit-scrollbar{
+    background-color: transparent;
+    height: 5px;
+}
+
+#taskList::-webkit-scrollbar-thumb{
+    
+}
