@@ -4,7 +4,7 @@ const AcceptTask = ({data}) => {
     console.log();
     
   return (
-    <div>
+    
        <div className='h-full flex-shrink-0 w-[300px] p-5  bg-red-400 rounded-xl '>
                 <div className='flex justify-between items-center'>
                     <h3 className=' bg-red-600 text-sm px-3 py-1 rounded'>
@@ -24,7 +24,7 @@ const AcceptTask = ({data}) => {
             </div>
 
             </div>
-    </div>
+    
   )
 }
 
